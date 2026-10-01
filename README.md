@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Eiseu01/Eiseu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Role / Title] passionate about [Your Interests / Tech Stack].
 
-Here are some ideas to get you started:
+### 🛠 Tech & Tools
+- **Languages:** Python, JavaScript, TypeScript, Go
+- **Frameworks:** React, Next.js, FastAPI
+- **Databases & Tools:** PostgreSQL, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Contributing to open-source developer tooling
+- Building [Project Name](https://github.com/your-username/project)
+
+### 📫 How to Reach Me
+- **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username)
+- **Twitter/X:** [@handle](https://x.com/handle)
+- **Email:** you@example.com
