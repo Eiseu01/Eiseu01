@@ -9,10 +9,10 @@ Full-stack web developer building clean, responsive interfaces and reliable web 
 
 ### Tech Stack & Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, HTML5, CSS3, SQL
 - **Frameworks:** React, Next.js, Tailwind CSS, Django, jQuery
 - **Backend:** Node.js, PHP, Python
-- **Databases & Tools:** MySQL, Prisma, Git & GitHub, Figma, VS Code, CLI / Terminal
+- **Databases & Tools:** MySQL, Git & GitHub, Figma, VS Code, CLI / Terminal
 
 ---
 
